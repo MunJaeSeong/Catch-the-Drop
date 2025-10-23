@@ -21,7 +21,8 @@ You have a total of 5 lives, and you can save your score at the end of the game.
     index.html - DOM 구조(캔버스, lifeBadge, scoreBoard)
   
 ## **Architecture** <br>
-<img width="512" height="768" alt="아키텍쳐" src="https://github.com/user-attachments/assets/f0133696-6930-43eb-8f7d-386de2816f1f" />
+<img width="674" height="759" alt="아키텍쳐" src="https://github.com/user-attachments/assets/175dc734-03cc-4db4-857d-fc51403d2a0c" />
+
 
 
 ## 시퀀스(간단 요약):
